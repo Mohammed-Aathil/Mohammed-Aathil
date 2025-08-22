@@ -2,8 +2,10 @@
 <div align="center">
   <!-- Custom Banner -->
 <p align="center">
-  <img src="Assets/Photography%20Workshop.png" alt="Photography Workshop Banner" width="100%" />
+  <img src="https://github.com/Mohammed-Aathil/Mohammed-Aathil/blob/main/Assests/Photography%20Workshop.png?raw=true" 
+       alt="Photography Workshop Banner" width="100%" />
 </p>
+
 
 </div>
 
