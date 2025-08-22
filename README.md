@@ -1,16 +1,80 @@
-## Hi there 👋
+<!-- Green-themed Abstract Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=100&section=header&text=Hi%20There!%20👋&fontColor=ffffff&fontSize=40&desc=Welcome%20to%20My%20GitHub%20Profile&descSize=20&descAlignY=70"/>
 
-<!--
-**Mohammed-Aathil/Mohammed-Aathil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing Intro -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=32CD32&center=true&vCenter=true&width=700&lines=ECE+Undergrad+%7C+Aspiring+Software+Engineer;Passionate+about+Development+%26+Innovation;Learning+Java+%26+DSA;Exploring+Ideas+with+Tech"/>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 **Prefinal Year ECE Student** passionate about **Software Development**
+- 💻 Currently learning **Java** & **Data Structures**
+- 💡 Enjoy solving real-world problems with practical tech
+- 📫 Email me at: **mohammedaathil2023@gmail.com**
+
+---
+
+## 🚀 Currently Working On
+
+<p>
+  <img src="https://img.shields.io/badge/Java-32CD32?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+## 📘 Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Core%20Java-228B22?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+## 🧰 Tools I Use
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+---
+
+## 🌍 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/yourgithubusername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Languages I Know
+
+<p>
+  <img src="https://img.shields.io/badge/Java-32CD32?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourgithubusername&theme=github-compact&color=32CD32&line=32CD32&point=ffffff&area=true&hide_border=false)
+
+---
+
+## 🎬 Fun Visual
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
+</div>
+
+---
+
+<!-- Footer -->
+<p align="center">✨ Striving for growth through learning & collaboration ✨</p>
