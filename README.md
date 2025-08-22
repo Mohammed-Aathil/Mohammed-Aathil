@@ -1,6 +1,10 @@
 <!-- Typing Banner Only (Green Themed) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=Hi+There!+👋+Welcome+to+my+GitHub;I'm+an+Aspiring+Software+Engineer;ECE+Undergraduate+%7C+Java+%7C+DSA+Learner;Exploring+Tech+%26+Building+Projects;Let's+Connect+%F0%9F%9A%80" />
+  <!-- Custom Banner -->
+<p align="center">
+  <img src="Assets/Photography%20Workshop.png" alt="Photography Workshop Banner" width="100%" />
+</p>
+
 </div>
 
 ---
