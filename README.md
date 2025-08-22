@@ -1,11 +1,6 @@
-<!-- Custom Black & Green Web Dev Banner -->
+<!-- Typing Banner Only (Green Themed) -->
 <div align="center">
-  <img src="https://i.imgur.com/1kG4Ghy.png" alt="Web Development Banner" width="100%"/>
-</div>
-
-<!-- Typing Intro -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=ECE+Undergrad+%7C+Aspiring+Software+Engineer;Passionate+about+Development+%26+Innovation;Learning+Java+%26+DSA;Exploring+Ideas+with+Tech"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=Hi+There!+👋+Welcome+to+my+GitHub;I'm+an+Aspiring+Software+Engineer;ECE+Undergraduate+%7C+Java+%7C+DSA+Learner;Exploring+Tech+%26+Building+Projects;Let's+Connect+%F0%9F%9A%80" />
 </div>
 
 ---
@@ -67,9 +62,3 @@
 ## 📊 Contribution Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourgithubusername&theme=github-compact&color=00FF00&line=00FF00&point=ffffff&area=true&hide_border=false&custom_title=Contribution%20Graph)
-
----
-
-<p align="center">✨ Striving for growth through learning & collaboration ✨</p>
-
-
