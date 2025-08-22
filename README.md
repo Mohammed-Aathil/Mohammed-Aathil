@@ -1,12 +1,15 @@
 <!-- Typing Banner Only (Green Themed) -->
 <div align="center">
   <!-- Custom Banner -->
-<p align="center">
-  <img src="https://github.com/Mohammed-Aathil/Mohammed-Aathil/blob/main/Assests/Photography%20Workshop.png?raw=true" 
-       alt="Photography Workshop Banner" width="100%" />
-</p>
+  <p align="center">
+    <img src="https://github.com/Mohammed-Aathil/Mohammed-Aathil/blob/main/Assests/Photography%20Workshop.png?raw=true" 
+         alt="Photography Workshop Banner" width="100%" />
+  </p>
 
-
+  <!-- Running Text -->
+  <marquee behavior="scroll" direction="left" scrollamount="6" style="color:green; font-size:20px; font-weight:bold;">
+    🚀 Welcome to Mohammed Aathil's GitHub — Prefinal Year ECE Student | Java & DSA Learner | Open Source Enthusiast 👨‍💻
+  </marquee>
 </div>
 
 ---
