@@ -1,9 +1,11 @@
-<!-- Modern Green Banner (Abstract Gradient) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2E8B57&height=120&section=header&text=Welcome%20👋&fontSize=40&fontColor=ffffff"/>
+<!-- Custom Black & Green Web Dev Banner -->
+<div align="center">
+  <img src="https://i.imgur.com/1kG4Ghy.png" alt="Web Development Banner" width="100%"/>
+</div>
 
 <!-- Typing Intro -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E8B57&center=true&vCenter=true&width=700&lines=ECE+Undergrad+%7C+Aspiring+Software+Engineer;Passionate+about+Development+%26+Innovation;Learning+Java+%26+DSA;Exploring+Ideas+with+Tech"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=ECE+Undergrad+%7C+Aspiring+Software+Engineer;Passionate+about+Development+%26+Innovation;Learning+Java+%26+DSA;Exploring+Ideas+with+Tech"/>
 </div>
 
 ---
@@ -20,7 +22,7 @@
 ## 🚀 Currently Working On
 
 <p>
-  <img src="https://img.shields.io/badge/Java-2E8B57?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-006400?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 ## 📘 Currently Learning
@@ -55,7 +57,7 @@
 ## 🧠 Languages I Know
 
 <p>
-  <img src="https://img.shields.io/badge/Java-2E8B57?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-006400?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
@@ -64,17 +66,10 @@
 
 ## 📊 Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourgithubusername&theme=github-compact&color=2E8B57&line=2E8B57&point=ffffff&area=true&hide_border=false)
-
----
-
-## 🎬 Fun Visual
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
-</div>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourgithubusername&theme=github-compact&color=00FF00&line=00FF00&point=ffffff&area=true&hide_border=false&custom_title=Contribution%20Graph)
 
 ---
 
 <p align="center">✨ Striving for growth through learning & collaboration ✨</p>
+
 
