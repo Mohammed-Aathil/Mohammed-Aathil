@@ -1,9 +1,9 @@
-<!-- Green-themed Abstract Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=100&section=header&text=Hi%20There!%20👋&fontColor=ffffff&fontSize=40&desc=Welcome%20to%20My%20GitHub%20Profile&descSize=20&descAlignY=70"/>
+<!-- Modern Green Banner (Abstract Gradient) -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2E8B57&height=120&section=header&text=Welcome%20👋&fontSize=40&fontColor=ffffff"/>
 
 <!-- Typing Intro -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=32CD32&center=true&vCenter=true&width=700&lines=ECE+Undergrad+%7C+Aspiring+Software+Engineer;Passionate+about+Development+%26+Innovation;Learning+Java+%26+DSA;Exploring+Ideas+with+Tech"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E8B57&center=true&vCenter=true&width=700&lines=ECE+Undergrad+%7C+Aspiring+Software+Engineer;Passionate+about+Development+%26+Innovation;Learning+Java+%26+DSA;Exploring+Ideas+with+Tech"/>
 </div>
 
 ---
@@ -20,7 +20,7 @@
 ## 🚀 Currently Working On
 
 <p>
-  <img src="https://img.shields.io/badge/Java-32CD32?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-2E8B57?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 ## 📘 Currently Learning
@@ -55,16 +55,16 @@
 ## 🧠 Languages I Know
 
 <p>
-  <img src="https://img.shields.io/badge/Java-32CD32?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-2E8B57?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
 
-## 📈 GitHub Activity
+## 📊 Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourgithubusername&theme=github-compact&color=32CD32&line=32CD32&point=ffffff&area=true&hide_border=false)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourgithubusername&theme=github-compact&color=2E8B57&line=2E8B57&point=ffffff&area=true&hide_border=false)
 
 ---
 
@@ -76,5 +76,5 @@
 
 ---
 
-<!-- Footer -->
 <p align="center">✨ Striving for growth through learning & collaboration ✨</p>
+
