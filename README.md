@@ -1,27 +1,9 @@
-<!-- Banner -->
-<div align="center">
-  <img src="https://github.com/Mohammed-Aathil/Mohammed-Aathil/blob/main/Assests/Photography%20Workshop.png?raw=true" 
-       alt="Mohammed Aathil Banner" width="100%" />
-</div>
-
----
-
-<!-- Green Coder Animation Hero -->
-<div align="center" style="background: linear-gradient(135deg,#00C853,#006400); padding: 18px 22px; border-radius: 16px; margin: 10px 0;">
-  <table>
-    <tr>
-      <td style="vertical-align: middle; border: none;">
-        <h2 style="color: #ffffff; margin: 0;">Hi, I'm <b>Mohammed Aathil</b> 👋</h2>
-        <p style="color: #eaffea; font-size: 16px; margin: 6px 0 0;">
-          Prefinal Year ECE • Java & DSA Learner • Open Source Enthusiast
-        </p>
-      </td>
-      <td style="border: none; padding-left: 12px;">
-        <!-- Common open-source coder gif; replace with your own if you like -->
-        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coder Animation" height="120">
-      </td>
-    </tr>
-  </table>
+<!-- Green Hero Section -->
+<div align="center" style="background: linear-gradient(135deg,#00C853,#006400); padding: 20px; border-radius: 16px; margin: 10px 0;">
+  <h2 style="color: #ffffff; margin: 0;">Hi, I'm <b>Mohammed Aathil</b> 👋</h2>
+  <p style="color: #eaffea; font-size: 16px; margin: 6px 0 0;">
+    Prefinal Year ECE • Java & DSA Learner • Open Source Enthusiast
+  </p>
 </div>
 
 ---
