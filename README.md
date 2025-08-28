@@ -1,78 +1,21 @@
-<!-- Green Hero Section -->
-<div align="center" style="background: linear-gradient(135deg,#00C853,#006400); padding: 20px; border-radius: 16px; margin: 10px 0;">
-  <h2 style="color: #ffffff; margin: 0;">Hi, I'm <b>Mohammed Aathil</b> 👋</h2>
-  <p style="color: #eaffea; font-size: 16px; margin: 6px 0 0;">
-    Prefinal Year ECE • Java & DSA Learner • Open Source Enthusiast
-  </p>
-</div>
+# 💫 About Me:
+🎓 Prefinal Year ECE Student passionate about Software Development<br>💻 Currently learning Java & Data Structures<br>🌱 Exploring Open Source contributions<br>💡 Love solving real-world problems using practical tech<br>📫 Reach me at: mohammedaathil2023@gmail.com
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammedaathil-j-8139472a4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammedaathil2023@gmail.com) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mohammed-Aathil&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mohammed-Aathil&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Aathil&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mohammed-Aathil&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Mohammed-Aathil&icon=2&color=3)](https://visitcount.itsvg.in)
 
-## 👨‍💻 About Me
-
-- 🎓 **Prefinal Year ECE Student** passionate about **Software Development**
-- 💻 Currently learning **Java** & **Data Structures**
-- 🌱 Exploring **Open Source** contributions
-- 💡 Love solving real-world problems using practical tech
-- 📫 Reach me at: **mohammedaathil2023@gmail.com**
-
----
-
-## 🚀 Skills & Tech
-
-### 🔹 Languages  
-<p>
-  <img src="https://img.shields.io/badge/Java-006400?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### 🔹 Tools & Platforms  
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
-
-## 📘 Currently Learning  
-<p>
-  <img src="https://img.shields.io/badge/Core%20Java-228B22?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Structures-2E8B57?style=for-the-badge&logo=c&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Aathil&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Aathil&theme=chartreuse-dark" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Aathil&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
-</p>
-
----
-
-## 📈 Contribution Graph  
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Aathil&theme=github-compact&color=00FF00&line=00FF00&point=ffffff&area=true&hide_border=false&custom_title=Contribution%20Graph)
-
----
-
-## 🌍 Connect with Me  
-<p>
-  <a href="https://www.linkedin.com/in/mohammed-aathil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mohammedaathil2023@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Mohammed-Aathil" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-006400?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  🌟 <i>Code. Learn. Build. Repeat.</i> 🌟
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
