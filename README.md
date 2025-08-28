@@ -1,5 +1,10 @@
+<!-- Animated Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=228B22&center=true&vCenter=true&width=500&lines=Prefinal+Year+ECE+Student;Java+%26+DSA+Learner;Open+Source+Enthusiast;Passionate+About+Software+Development;Loves+Problem+Solving" alt="Typing SVG" />
+</p>
+
 # 💫 About Me:
-🎓 Prefinal Year ECE Student passionate about Software Development<br>💻 Currently learning Java & Data Structures<br>🌱 Exploring Open Source contributions<br>💡 Love solving real-world problems using practical tech<br>📫 Reach me at: mohammedaathil2023@gmail.com
+🎓 Prefinal Year ECE Student passionate about Software Development<br>💻 Currently learning Java & Data Structures<br>🌱 Exploring Open Source contributions<br>💡 Love solving real-world problems using practical tech<br>📫 Reach me at: **mohammedaathil2023@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedaathil-j-8139472a4/) 
@@ -26,4 +31,3 @@
 [![](https://visitcount.itsvg.in/api?id=Mohammed-Aathil&icon=2&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
