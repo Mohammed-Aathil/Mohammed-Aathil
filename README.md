@@ -9,12 +9,12 @@ Here’s my GitHub streak and activity 👇
 ---
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Aathil&theme=dark)
 
 ---
 
 ## 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.herokuapp.com/graph?username=USERNAME&theme=react-dark&area=true)
+![Activity Graph](https://github-readme-activity-graph.herokuapp.com/graph?username=Mohammed-Aathil&theme=react-dark&area=true)
 
 
 # ==============================
@@ -46,8 +46,8 @@ jobs:
         env:
           TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         run: |
-          git config user.name "YOUR NAME"
-          git config user.email "YOUR-EMAIL@example.com"
+          git config user.name "Mohammed Aathil J"
+          git config user.email "mohammedaathil2023@gmail.com"
 
           git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
 
