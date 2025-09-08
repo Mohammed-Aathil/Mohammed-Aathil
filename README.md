@@ -6,11 +6,16 @@ Currently learning the **MERN Stack**
 ---
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Aathil&theme=dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Aathil&theme=dark" alt="GitHub Streak"/>
+</p>
 
 ---
 
 ## 📚 Learning MERN Stack
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/mern-logo/master/mern.png" alt="MERN Stack" height="200"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" height="80" alt="MongoDB"/>
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" height="80" alt="ExpressJS"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" height="80" alt="ReactJS"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="80" alt="NodeJS"/>
 </p>
