@@ -1,7 +1,7 @@
 # Hi 👋 I'm Mohammed Aathil J
 
 I’m passionate about coding and open-source.  
-Here’s my GitHub streak and activity 👇
+Currently learning the **MERN Stack** 🚀  
 
 ---
 
@@ -10,5 +10,7 @@ Here’s my GitHub streak and activity 👇
 
 ---
 
-## 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.herokuapp.com/graph?username=Mohammed-Aathil&theme=react-dark&area=true)
+## 📚 Learning MERN Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="MERN Stack Icons" height="150"/>
+</p>
