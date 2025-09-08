@@ -6,14 +6,14 @@
 
 ---
 
-## Streak Stats
+## <span style="color:0000FF"> Streak Stats</span>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Aathil&theme=blueberry&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## Learning Web Development
+## <span style="color:0000FF"> Learning Web Development</span>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" height="80" alt="MongoDB"/>
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" height="80" alt="ExpressJS"/>
