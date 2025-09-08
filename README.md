@@ -1,18 +1,23 @@
-# Hi 👋 I'm Mohammed Aathil J
+# Hi  I'm Mohammed Aathil J
 
-I’m passionate about coding and open-source.  
-Currently learning the **MERN Stack**
+I am learning **Web Development** and I am interested in **Software Development**.  
+
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="10" style="font-size:18px; color:#00ff99;">
+    I am learning Web Development and I am interested in Software Development
+  </marquee>
+</p>
 
 ---
 
-## 🔥 Streak Stats
+##  Streak Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Aathil&theme=dark" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 📚 Learning MERN Stack
+##  Learning Web Development
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" height="80" alt="MongoDB"/>
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" height="80" alt="ExpressJS"/>
