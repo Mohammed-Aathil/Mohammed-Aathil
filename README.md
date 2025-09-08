@@ -8,7 +8,7 @@
 
 ## Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Aathil&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Aathil&theme=blueberry&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
