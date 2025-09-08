@@ -7,7 +7,7 @@
 ---
 
 ## <p align="center">
-  <img src="https://img.shields.io/badge/🔥-Streak%20Stats-blue?style=for-the-badge" alt="Streak Stats"/>
+  <img src="https://img.shields.io/badge/-Streak%20Stats-blue?style=for-the-badge" alt="Streak Stats"/>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 ---
 
 ## <p align="center">
-  <img src="https://img.shields.io/badge/📚-Learning%20Web%20Development-blue?style=for-the-badge" alt="Learning Web Development"/>
+  <img src="https://img.shields.io/badge/-Learning%20Web%20Development-blue?style=for-the-badge" alt="Learning Web Development"/>
 </p>
 
 <p align="center">
