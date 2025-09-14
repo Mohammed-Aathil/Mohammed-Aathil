@@ -16,14 +16,13 @@
 
 ---
 
-<p align="center">
-  <!-- Logos with white background -->
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" height="80" alt="MongoDB" style="background:white;padding:8px;border-radius:8px;"/>
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" height="80" alt="ExpressJS" style="background:white;padding:8px;border-radius:8px;"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" height="80" alt="ReactJS" style="background:white;padding:8px;border-radius:8px;"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="80" alt="NodeJS" style="background:white;padding:8px;border-radius:8px;"/>
+## <p align="center">
+  <img src="https://img.shields.io/badge/-Learning%20Web%20Development-blue?style=for-the-badge" alt="Learning Web Development"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Learning%20Web%20Development-blue?style=for-the-badge" alt="Learning Web Development" style="background:white;padding:6px;border-radius:8px;"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" height="80" alt="MongoDB"/>
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" height="80" alt="ExpressJS"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" height="80" alt="ReactJS"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="80" alt="NodeJS"/>
 </p>
